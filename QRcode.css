@@ -1,0 +1,37 @@
+/* Stylesheet for QRcode.html */
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.card {
+    background-color: #fff;
+    width: 400px;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 190px;
+}
+.qr {
+    width: inherit;
+    border-radius: 15px;
+}
+.card h1 {
+    color: hsl(218, 44%, 22%);
+}
+.body {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+
+.attribution {
+    padding: 8px;
+    text-align: center;
+    font-size: 13.5px;
+}
+.attribution a {
+    text-decoration: none;
+    color: hsl(228, 45%, 44%);
+}
